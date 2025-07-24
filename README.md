@@ -1,0 +1,1 @@
+Merkle Trees are a data structure used in computer science and cryptography to efficiently verify and secure data. They organize data in a tree where each leaf node is a hash of a data block, and each non-leaf node is a hash of its child nodes. This allows fast verification of large datasets and is widely used in blockchain, Git, and peer-to-peer networks.
